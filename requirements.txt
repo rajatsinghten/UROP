@@ -1,0 +1,13 @@
+# torch is installed separately by setup_and_run.ps1 (CUDA build)
+numpy
+scipy
+scikit-learn
+pandas
+mne
+moabb==1.7.2
+einops
+timm
+torchsummary
+torchinfo
+matplotlib
+PyWavelets
